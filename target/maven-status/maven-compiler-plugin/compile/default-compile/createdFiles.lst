@@ -1,0 +1,4 @@
+com\example\test1\controller\UserController.class
+com\example\test1\Test1Application.class
+com\example\test1\model\User.class
+com\example\test1\repository\UserRepository.class
